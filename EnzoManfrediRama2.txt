@@ -1,0 +1,6 @@
+Enzo Manfredi Reggio
+40489947
+
+Rama A: se utiliza para desarrollo en esta tendrán acceso  
+	Rama B: se utiliza para Testing 
+	Rama C: se utiliza para despliegue. 
